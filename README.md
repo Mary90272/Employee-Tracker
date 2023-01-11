@@ -34,17 +34,19 @@ in index.js file to your personal (Mysql) password<br>
 Also I used asciiart-logo for my project. But also you can use figlet.<br> 
 
 ## Source link
-Asciiart-logo :https://github.com/tomi-vanek/asciiart-logo#readme
+Asciiart-logo:  https://github.com/tomi-vanek/asciiart-logo#readme
 or<br>
-npm install Figlet:https://www.npmjs.com/package/figlet
+npm install Figlet: https://www.npmjs.com/package/figlet
 
 ## Images of Deployed Application
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/Screenshot_1.png)
+![alt text](assets/images/Screenshot_2.png)
+![alt text](assets/images/Screenshot_3.png)
+![alt text](assets/images/Screenshot_4.png)
 ## Video showing the functionality of the application
 ![alt text](assets/video/Untitled_%20Jan%2010%2C%202023%208_56%20PM.gif)
-# Relevant Links:
-
+# Relevant Links
 ## Link video :
 https://drive.google.com/file/d/1MfyvbB7sr4A-SZJwgIcv97p7J_SU3zt3/view
 
-## GitHub Repo:
+## GitHub Repo: https://github.com/Mary90272/Employee-Tracker
