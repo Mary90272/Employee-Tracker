@@ -44,7 +44,7 @@ npm install Figlet: https://www.npmjs.com/package/figlet
 ![alt text](assets/images/Screenshot_3.png)
 ![alt text](assets/images/Screenshot_4.png)
 ## Video showing the functionality of the application
-![alt text](assets/video/Untitled_%20Jan%2010%2C%202023%208_56%20PM.gif)
+![alt text](assets/video/Untitled_-Jan-11_-2023-11_51-AM.gif)
 # Relevant Links
 ## Link video :
 https://drive.google.com/file/d/1MfyvbB7sr4A-SZJwgIcv97p7J_SU3zt3/view
