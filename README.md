@@ -20,7 +20,7 @@ update an employee's current role<br>
 -npm install mysql2<br>
 -npm i inquirer@8.2.4<br>
 -npm console.table<br>
--npm install asciiart-logo
+-npm install asciiart-logo<br>
 -Node.js is required to run the application<br>
 Open VsCode Terminal
 -open db folder
