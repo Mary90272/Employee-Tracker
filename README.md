@@ -22,11 +22,11 @@ update an employee's current role<br>
 -npm console.table<br>
 -npm install asciiart-logo<br>
 -Node.js is required to run the application<br>
-Open VsCode Terminal
--open db folder
--type mysql -u root -p
--source schema.sql
--node index.js
+Open VsCode Terminal<br>
+-open db folder<br>
+-type mysql -u root -p<br>
+-source schema.sql<br>
+-node index.js<br>
 
 ## Usage
 To run project on local mashine you also need to change password <br>
@@ -34,7 +34,7 @@ in index.js file to your personal (Mysql) password<br>
 Also I used asciiart-logo for my project. But also you can use figlet.<br> 
 
 ## Source link
-Asciiart-logo:  https://github.com/tomi-vanek/asciiart-logo#readme
+Asciiart-logo:  https://github.com/tomi-vanek/asciiart-logo#readme<br>
 or<br>
 npm install Figlet: https://www.npmjs.com/package/figlet
 
