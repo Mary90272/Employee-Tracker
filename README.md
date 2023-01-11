@@ -49,4 +49,5 @@ npm install Figlet: https://www.npmjs.com/package/figlet
 ## Link video :
 https://drive.google.com/file/d/1MfyvbB7sr4A-SZJwgIcv97p7J_SU3zt3/view
 
-## GitHub Repo: https://github.com/Mary90272/Employee-Tracker
+## GitHub Repo:
+https://github.com/Mary90272/Employee-Tracker
